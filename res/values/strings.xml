@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">优狐房产</string>
+    <string name="second_hand_house">二手房</string>
+    <string name="rent_house">租房</string>
+    <string name="shake">摇一摇</string>
+    <string name="house_price">房价</string>
+    <string name="find_roommate">找室友</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="status_codes">
+        <item>0=未知异常.</item>
+        <item>400=网络错误，请重试</item>
+        <item>403=网络错误，请重试</item>
+        <item>407=用户名或密码错误</item>
+        <item>500=您的账号已经再另一设备上登录</item>
+        <item>903=服务器异常</item>
+        <item>904=网络错误，请重试</item>
+        <item>905=网络错误，请检查网络连接</item>
+        <item>906=网络异常，请检查网络连接</item>
+        <item>909=输入非法地址，请检查地址是否正确</item>
+        <item>1024=登录超时，请重新登录</item>
+    </string-array>
+    
+</resources>

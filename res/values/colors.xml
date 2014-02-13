@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   
+    <!-- 页面背景颜色 偏亮一点-->
+    <color name="background_color">#edf1f1</color>
+    <!-- 系统主色调-橙黄 -->
+    <color name="orange_color">#ff7300</color>
+    <!-- tab栏文字默认灰色 -->
+    <color name="gray_color">#aeadad</color>
+    <color name="white">#fffcfcfc</color>
+
+</resources>
